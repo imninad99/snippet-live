@@ -37,7 +37,7 @@ This project is a real-time collaborative code editor with an integrated compile
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/imninad99/Snippet-Live.git
+   git clone https://github.com/imninad99/snippet-live.git
    cd SnippetLive
    ```
 
@@ -81,4 +81,4 @@ http://localhost:3000
 - **Material UI:** [MUI Getting Started](https://mui.com/material-ui/getting-started/installation/)
 - **Recharts:** [Recharts Documentation](https://recharts.org/en-US/)
 
-# Made with ❤ by [Ninad Patil](https://github.com/imninad99).
+# Made with ❤
