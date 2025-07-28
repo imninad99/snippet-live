@@ -81,4 +81,4 @@ http://localhost:3000
 - **Material UI:** [MUI Getting Started](https://mui.com/material-ui/getting-started/installation/)
 - **Recharts:** [Recharts Documentation](https://recharts.org/en-US/)
 
-# Made with ❤
+
